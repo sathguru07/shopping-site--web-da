@@ -60,10 +60,3 @@ Follow these steps to run the project locally:
 4.  **Open in Browser**
     Visit [http://localhost:5173](http://localhost:5173) to see the application.
 
-## 👤 Author
-
-**Sathguru**
-
----
-
-*Built with ❤️ for Web Dev DA*
